@@ -19,7 +19,7 @@ function Footer() {
     <footer className="bg-black-100 p-10">
       <div className="flex justify-between items-center">
         <div>
-          Designed and Deployed by <Link href="http://developeratul.com">Ratul</Link>
+          Bootstrapped and Deployed by <Link href="http://developeratul.com">Ratul</Link>
         </div>
         <div>
           Copyright &copy; <Link href="https://www.jsmastery.pro">JavascriptMastery</Link>
